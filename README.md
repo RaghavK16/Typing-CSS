@@ -1,12 +1,14 @@
 # Typing-CSS
 
-Using CSS to create typing effect for texts
+* Using CSS to create typing effect for texts
 
 <div align="center">
 
 ![CSS_Effect](https://github.com/raghavk16/Typing-CSS/blob/master/screen.gif?raw=true)
 
 </div>
+
+* I created this for my Profile README.
 
 ## Contribution
 
